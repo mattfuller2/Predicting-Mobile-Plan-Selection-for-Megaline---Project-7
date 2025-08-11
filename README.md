@@ -1,4 +1,4 @@
-# Predicting-Mobile-Plan-Selection-for-Megaline---Project-7
+# Sprint 7: Predicting Mobile Plan Selection for Megaline
 
 ## Project Overview
 
